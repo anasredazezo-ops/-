@@ -1,0 +1,7 @@
+{
+  "name": "أكاديمية جهاد لتعليم القرآن الكريم",
+  "description": "منصة تفاعلية مبهجة لتحفيظ القرآن الكريم للأطفال مع نظام مكافآت وأصوات تشجيعية وتلاوة الشيخ المنشاوي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
